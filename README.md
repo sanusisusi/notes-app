@@ -6,7 +6,7 @@ Status: ✅ Finished
 
 
 ## Live Preview
-
+sanusisusi.github.io/notes-app/
 
 
 ## Technologies Used
