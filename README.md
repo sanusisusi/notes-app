@@ -6,8 +6,10 @@ Status: ✅ Finished
 
 
 ## Live Preview
-sanusisusi.github.io/notes-app/
+sanusisusi.github.io/notes-app
 
+## Screenshot/Preview
+  ![note preview](https://github.com/sanusisusi/notes-app/blob/gh-pages/note%20preview.png)
 
 ## Technologies Used
 
